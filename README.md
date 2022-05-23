@@ -10,7 +10,7 @@ If your NPC is from another mod you have two options
  - click on it ingame with [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
  - open your mod in __xEdit__ and find NPC by name manually under __Non-Player Character (Actor)__
 
-Search your __BaseID__ in __FormID__ input (top-left), now you rightclick top of last column and select `Copy as override into`
+Search your __BaseID__ in __FormID__ input, now rightclick top of last column and select `Copy as override into`
 ![img](/images/3.png)
 
 Select <new file>.esp (if you are doing this again just select your patch) and pick name, I will name it __myPatch__
@@ -39,7 +39,7 @@ If you need to add more items than outfit already contains you have to add new
 Copy __FormID__ of your outfit and use it to replace NPC's current outfit
 ![img](/images/11.png)
 
-Now just `Ctrl + S` to save your mod, don't forget to activate it in your modlist
+Now just `Ctrl + S` to save your mod, don't forget to activate it in modlist
 
 And here she is
 ![img](/images/12.jpg)
